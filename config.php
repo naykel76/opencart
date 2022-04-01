@@ -9,7 +9,7 @@ define('HTTPS_SERVER', 'http://localhost/opencart/');
 define('DIR_APPLICATION', 'C:/Users/nayke/Desktop/htdocs/opencart/catalog/');
 define('DIR_SYSTEM', 'C:/Users/nayke/Desktop/htdocs/opencart/system/');
 define('DIR_IMAGE', 'C:/Users/nayke/Desktop/htdocs/opencart/image/');
-define('DIR_STORAGE', DIR_SYSTEM . 'storage/');
+define('DIR_STORAGE', 'C:/Users/nayke/Desktop/storage/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/theme/');
 define('DIR_CONFIG', DIR_SYSTEM . 'config/');
