@@ -1,5 +1,9 @@
+/admin/config.php
+/catalog/view/theme/naykel/node_modules
+/config.php
 /image/cache
+/image/catalog/products
+/image/catalog/products_jne
 /system/storage/cache
-
-
 nk_commands.md
+nk_notes.md
